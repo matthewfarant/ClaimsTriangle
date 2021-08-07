@@ -1,0 +1,12 @@
+name: ClaimsTriangle
+title: ClaimsTriangle
+username:
+account: littleknife
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3282838
+bundleId: 3916182
+url: https://littleknife.shinyapps.io/ClaimsTriangle/
+when: 1606575117.85263
+asMultiple: FALSE
+asStatic: FALSE
